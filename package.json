@@ -1,0 +1,24 @@
+{
+  "name": "learning-docker",
+  "version": "1.0.0",
+  "description": "My first repo connected to docker hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sz-sebestyen/learning-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sz-sebestyen/learning-docker/issues"
+  },
+  "homepage": "https://github.com/sz-sebestyen/learning-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
